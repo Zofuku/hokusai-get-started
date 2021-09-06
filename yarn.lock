@@ -513,10 +513,10 @@ multiformats@^9.0.0, multiformats@^9.0.4:
   resolved "https://registry.yarnpkg.com/multiformats/-/multiformats-9.4.5.tgz#9ac47bbc87aadb09d4bd05e9cd3da6f4436414f6"
   integrity sha512-zQxukxsHM34EJi3yT3MkUlycY9wEouyrAz0PSN+CyCj6cYchJZ4LrTH74YtlsxVyAK6waz/gnVLmJwi3P0knKg==
 
-nft.storage@^3.1.3:
-  version "3.1.3"
-  resolved "https://registry.yarnpkg.com/nft.storage/-/nft.storage-3.1.3.tgz#d425f4532ced218084a1f36767f8c5c5db3e95e9"
-  integrity sha512-GHPhhk8deJl3bONICKTmqHMDY75DOsrfrurmgRq4pWp3Ko64fkfwBkYIpH33QY6i1SFLfHgKUP6hPwAXRz0nTg==
+nft.storage@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/nft.storage/-/nft.storage-3.2.0.tgz#054d80315f8905377b3e08526ef7645fe13916fc"
+  integrity sha512-BBtu/3dGkyqlpsq7F8JWOQJZi/9CV/82s3Enbj8Lifow+R3Eoj8eDU4kHGsngFsk3tkiKRnjzq5KSKsHBM71mA==
   dependencies:
     "@web-std/blob" "^2.1.0"
     "@web-std/fetch" "^2.0.3"
